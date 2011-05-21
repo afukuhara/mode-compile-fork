@@ -3,5 +3,8 @@ This version has following languages support further to the original version.
  - PHP
  - CoffeeScript
 
+[TODO]
+ - appropriate error handling regexp (*-compilation-error-regexp-alist)
+
 original:
   http://perso.tls.cena.fr/boubaker/distrib/mode-compile.el
