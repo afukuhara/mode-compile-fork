@@ -1,0 +1,7 @@
+This is the forked (copied) project of mode-compile.
+This version has following languages support further to the original version.
+ - PHP
+ - CoffeeScript
+
+original:
+  http://perso.tls.cena.fr/boubaker/distrib/mode-compile.el
